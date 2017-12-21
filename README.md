@@ -1,2 +1,2 @@
-# pySFML-workshop
-pySFML dash workshop
+# pygame-workshop
+pygame workshop
